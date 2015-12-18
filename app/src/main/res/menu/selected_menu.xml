@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_download"
+        android:icon="@drawable/ic_download"
+        android:orderInCategory="100"
+        android:title="@string/action_download"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_delete_selected"
+        android:icon="@drawable/ic_delete_white"
+        android:title="@string/action_delete_selected"
+        android:orderInCategory="300"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/ic_edit"
+        android:title="@string/action_apply_filter"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom" />
+
+    </menu>
