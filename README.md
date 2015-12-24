@@ -5,4 +5,4 @@ An app that reminds you to take a selfie daily
 
 For detailed description of requirements, please see 
 
-For detailed description of how these requirements were met in the project, please see 
+For detailed description of how these requirements were met in the project, please see SelfieU Android Application.pdf
